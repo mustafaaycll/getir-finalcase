@@ -1,5 +1,5 @@
 # Getir Final Case
-![screenshots](https://raw.githubusercontent.com/mustafaaycll/getir-finalcase/main/screenshots/showcase.png)
+![screenshots](../blob/main/showcase.png?raw=true)
 
 ## Description
 This iOS app is a simplified version of the Getir shopping experience, designed as part of a bootcamp case study. It enables users to browse products, add them to a shopping cart, and manage their purchases. The app utilizes Swift UIKit programmatically and follows VIPER architecture pattern to ensure clean and maintainable code. Users can navigate through Product Listing, Product Detail, and Shopping Cart screens, leveraging a compositional layout for a dynamic and responsive UI. The project adheres to the design guidelines provided and includes custom views for an enhanced user experience. The app interacts with mock APIs to simulate a real-world application and is built to be compatible with Xcode 15.x, ensuring it is production-ready.
