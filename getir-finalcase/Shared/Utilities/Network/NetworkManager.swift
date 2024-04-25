@@ -40,12 +40,6 @@ struct NetworkManager {
             var categories: [[String: Any]] = []
             if let json = json {
                 for elem in json {
-                    if let products = elem["products"] {
-                        // image data çek ve append et
-                        let url = URL(string: "")
-                        
-                        
-                    }
                     if elem["products"] != nil {
                         categories.append(elem)
                     }
